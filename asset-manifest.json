@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/cadastro-de-estandistas-2/static/css/main.e3bc7eed.chunk.css",
+    "main.js": "/cadastro-de-estandistas-2/static/js/main.4c2dcb8b.chunk.js",
+    "main.js.map": "/cadastro-de-estandistas-2/static/js/main.4c2dcb8b.chunk.js.map",
+    "runtime-main.js": "/cadastro-de-estandistas-2/static/js/runtime-main.90a29544.js",
+    "runtime-main.js.map": "/cadastro-de-estandistas-2/static/js/runtime-main.90a29544.js.map",
+    "static/js/2.763701bd.chunk.js": "/cadastro-de-estandistas-2/static/js/2.763701bd.chunk.js",
+    "static/js/2.763701bd.chunk.js.map": "/cadastro-de-estandistas-2/static/js/2.763701bd.chunk.js.map",
+    "index.html": "/cadastro-de-estandistas-2/index.html",
+    "precache-manifest.51b2e9a6cfb9edab588b937e49c6aa54.js": "/cadastro-de-estandistas-2/precache-manifest.51b2e9a6cfb9edab588b937e49c6aa54.js",
+    "service-worker.js": "/cadastro-de-estandistas-2/service-worker.js",
+    "static/css/main.e3bc7eed.chunk.css.map": "/cadastro-de-estandistas-2/static/css/main.e3bc7eed.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.90a29544.js",
+    "static/js/2.763701bd.chunk.js",
+    "static/css/main.e3bc7eed.chunk.css",
+    "static/js/main.4c2dcb8b.chunk.js"
+  ]
+}
