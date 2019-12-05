@@ -12,6 +12,7 @@ workbox.routing.registerRoute(
 );
 
 workbox.routing.registerRoute(
-  'http://localhost:3000/',
+  //'http://localhost:3000/',
+  'https://arthurggssenac.github.io/cadastro-de-estandistas-2/',
   new workbox.strategies.NetworkFirst()
 );
